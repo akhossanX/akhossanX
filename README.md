@@ -6,13 +6,16 @@
 
 - 🔭 I’m currently working on [Camagru](https://github.com/akhossanX/camagru.git) web project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akhossanX&repo=camagru&show_owner=true&theme=synthwave)](https://github.com/akhossanX/camagru)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akhossanX&repo=camagru&show_owner=true&theme=monokai&show_icons=true)](https://github.com/akhossanX/camagru)
+
+## 42 Network Profile
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhossan)](https://github.com/mohouyizme/1337-readme)
 
 ## My statistics
 
-![akhossanX's github stats](https://github-readme-stats.vercel.app/api?username=akhossanX&show_icons=true&theme=synthwave&hide_border=false&disable_animations=false&custome_title=Abdelilah%20Khossan&count_private=true&include_all_commits=true&langs_count=10&custome_title=My%20Statistics)
+![akhossanX's github stats](https://github-readme-stats.vercel.app/api?username=akhossanX&show_icons=true&theme=synthwave&hide_border=false&disable_animations=false&count_private=true&include_all_commits=true&langs_count=10&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhossanX&langs_count=10&layout=compact&theme=synthwave)](https://github.com/akhossanX/akhossanX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhossanX&langs_count=10&show_icons=true&layout=compact&theme=synthwave)](https://github.com/akhossanX/akhossanX)
 
 <!--
 [![Sakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akhossan&layout=compact)](https://github.com/akhossanX/camagru)
