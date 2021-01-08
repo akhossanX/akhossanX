@@ -5,12 +5,7 @@
 ## I am Abdelilah Khossan software engineering student at 1337 (42 Network)
 
 - 🔭 I’m currently working on [Camagru](https://github.com/akhossanX/camagru.git) web project
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akhossanX&repo=camagru&show_owner=true&theme=monokai&show_icons=true)](https://github.com/akhossanX/camagru) -->
 
-<a href="https://github.com/akhossanX/camagru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhossanX&repo=camagru&show_owner=true&theme=monokai&show_icons=true" />
-</a>
 
 ## 42 Network Profile
 
