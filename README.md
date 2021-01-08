@@ -20,20 +20,20 @@
   <img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhossan" />
 </a> -->
 
-<!--
-## My statistics -->
+
+## Statistics
 <!--
 ![akhossanX's github stats](https://github-readme-stats.vercel.app/api?username=akhossanX&show_icons=true&theme=synthwave&hide_border=false&disable_animations=false&count_private=true&include_all_commits=true&langs_count=10&show_icons=true) -->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhossanX&show_icons=true&theme=synthwave&hide_border=false&disable_animations=false&count_private=true&include_all_commits=true&langs_count=10&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhossanX&show_icons=true&theme=dark&hide_border=false&disable_animations=false&count_private=true&include_all_commits=true&langs_count=10&show_icons=true" />
 </a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhossanX&langs_count=10&show_icons=true&layout=compact&theme=synthwave)](https://github.com/akhossanX/akhossanX) -->
 
 <a href="https://github.com/akhossanX/akhossanX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhossanX&langs_count=10&show_icons=true&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhossanX&langs_count=10&show_icons=true&layout=compact&theme=dark" />
 </a>
 
 <!--
