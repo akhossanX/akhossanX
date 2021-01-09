@@ -1,6 +1,6 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX)
 
-### HI WELCOME TO MY GITHUB PROFILE 👋
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX)  -->
+### HI WELCOME TO MY GITHUB PROFILE 👋   <a href="#"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX" />
 
 ## I am Abdelilah Khossan software engineering student at 1337 (42 Network)
 
