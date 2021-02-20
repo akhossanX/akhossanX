@@ -4,7 +4,7 @@
 
 ## I am Abdelilah Khossan software engineering student at 1337 (42 Network)
 
-- 🔭 I’m currently working on [Camagru](https://github.com/akhossanX/camagru.git) web project
+- 🔭 I’m currently working on ([Camagru](https://github.com/akhossanX/camagru.git)) web project
 
 
 ## 42 Network Profile
