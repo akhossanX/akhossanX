@@ -12,7 +12,7 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhossan)](https://github.com/mohouyizme/1337-readme)
  -->
 <a href="https://github.com/mohouyizme/1337-readme">
-  <img align="center" style="width:100%" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhossan" />
+  <img align="center" style="width:100%" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=false&login=akhossan" />
 </a>
 
 
