@@ -3,7 +3,7 @@
 ### About me    <a href="#"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX" />
 
 - I am a Python full stack developer at swingit.be, doing awesome stuff with Django framework
-- 🔭 I’m also a computer science student at [1337kh](https://1337.ma/en) part of [42Network](https://42.fr/en) program
+- 🔭 I’m also a computer science student at [1337FIL](https://1337.ma/en) part of [42Network](https://42.fr/en) program
 - I have worked on plenty of exciting projects, feel free to take a quick tour in my repositories.
 - I admire open source community, I will be more than happy to contribute to awesome open source projects.
  
