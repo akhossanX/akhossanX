@@ -4,6 +4,14 @@
 
 - I am a Python full stack developer at swingit.be, doing awesome stuff with Django framework
 - 🔭 I’m also a computer science student at [1337kh](https://1337.ma/en) part of [42Network](https://42.fr/en) program
+- I have worked on plenty of exciting projects, feel free to take a quick tour in my repositories.
+- I admire open source community, I will be more than happy to contribute to awesome open source projects.
+ 
+### Contact
+ - [LinkedIn](https://linkedin.com/in/akhossan)
+ - [Twitter](https://twitter.com/akhossan1337)
+ 
+ - Here is my [profile](https://medium.com/@abdelilah.khossan) at **Medium**, I share there my thoughts and articles about what I have learned
 
 <!--
 ## 42 Network Profile
