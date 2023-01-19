@@ -1,10 +1,9 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX)  -->
-### Welcome to my Github profile 👋   <a href="#"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX" />
+### About me    <a href="#"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX" />
 
-## I am Abdelilah Khossan software developer at 1337 (42 Network)
-
-- 🔭 I’m currently working for SwingIT
+- I am a Python full stack developer at swingit.be, doing awesome stuff with Django framework
+- 🔭 I’m also a computer science student at [1337kh](https://1337.ma/en) part of [42Network](https://42.fr/en) program
 
 <!--
 ## 42 Network Profile
