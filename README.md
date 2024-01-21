@@ -2,7 +2,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX)  -->
 ### About me    <a href="#"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akhossanX.akhossanX" />
 
-- I am a Python developer doing awesome stuff
+- I am a Backend developer doing awesome stuff with Python.
 - 🔭 I’m also a computer science student at [1337FIL](https://1337.ma/en) part of [42Network](https://42.fr/en) program
 - I have worked on plenty of exciting projects, feel free to take a quick tour in my repositories.
 - I admire open source community, I will be more than happy to contribute to awesome open source projects.
